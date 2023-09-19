@@ -200,7 +200,7 @@ li:first-child {
     background-position: center;
     background-size: 100%;
     width: 430px;
-    height: 450px;
+    min-height: 450px;
     word-spacing: 1.94px;
     padding: 50px 40px;
 }
