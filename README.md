@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="https://github.com/drippyzxc/yandexlogo/blob/main/yandexpraktkum-logo-1(1).jpg" width="726">
+      <img src="" width="726">
 </p>
 
 <p align="center">
