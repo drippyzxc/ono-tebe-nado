@@ -8,7 +8,7 @@
 <hr>
 
 
-Проект ono-tebe-nado является простым одностраничным сайтом.
+Ono-tebe-nado is a simple and minimalistic one-page website designed to showcase a concept or idea in a clean and straightforward format.
 
 ## Documentation
 
