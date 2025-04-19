@@ -11,14 +11,14 @@
 Ono-tebe-nado is a simple and minimalistic one-page website designed to showcase a concept or idea in a clean and straightforward format.
 
 ## Stack
-<div align="center">
+<div align="left">
   <br/>
   <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-666?style=for-the-badge&logo=html5&logoColor=%23660000&labelColor=%23000&color=%23000"></a>
   <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-666?style=for-the-badge&logo=css3&logoColor=%23660000&labelColor=%23000&color=%23000"></a> 
 </div>
 
 ## My contact
-<div align="center">
+<div align="left">
 <a href="https://t.me/rarogdev"><img width="32px" alt="Telegram" title="Telegram" src="https://github.com/drippyzxc/appslogo/blob/main/telegram(1).png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
  <a href="mailto:rarog123321@gmail.com" alt="Gmail" title="Gmail"><img width="32px" src="https://github.com/drippyzxc/appslogo/blob/main/mail(1).png"/></a>
