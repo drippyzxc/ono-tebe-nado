@@ -1,16 +1,14 @@
-<p align="center">
-      <img src="https://github.com/drippyzxc/gifforwork/blob/main/ono-tebe-nado/ono-tebe-nado-main.gif" width="726">
-</p>
+<div align="center">
+<h1>Yandex Project - ono-tebe-nado</h1>
+<a href="https://vladislavserkir.github.io/react-burger/">
+ <img src="https://github.com/drippyzxc/gifforwork/blob/main/ono-tebe-nado/ono-tebe-nado-main.gif" width="726">
+</img>
+</a>
+</div>
+<hr>
 
-<p align="center">
-   <img src="" alt="Unity Version">
-   <img src="" alt="Game Version">
-   <img src="" alt="License">
-</p>
 
-## About
-
-About Text Here
+Проект ono-tebe-nado является простым одностраничным сайтом.
 
 ## Documentation
 
